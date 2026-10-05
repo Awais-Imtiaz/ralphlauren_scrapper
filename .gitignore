@@ -5,3 +5,6 @@ __pycache__/
 output/
 .scrapy/
 debug/
+EXPLANATION.md
+tests/
+docs/
